@@ -192,6 +192,9 @@ input,textarea{
     .text{
         font-size: 0.9rem;
     }
+	#fv{
+		font-size:0.8rem;
+	}
     input,textarea{
         width: 40vw;
        font-size: 0.8rem; 
