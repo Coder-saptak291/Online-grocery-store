@@ -117,6 +117,15 @@
     /* font-weight: bolder;
     color:white; */
 }
+#fv{
+    /* border: 3px solid black; */
+    border-radius: 6px;
+    font-size: 1.4rem;
+    padding: 4px;
+    font-family: 'Roboto', sans-serif;
+
+    /* color: rgb(107 164 230); */
+} 
 .my-2{
     max-width: 48vw;
 }
